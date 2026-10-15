@@ -1,0 +1,50 @@
+{
+ "app": "ColumnDetailerPro",
+ "latest": {
+  "stable": {
+   "version": "1.2.3",
+   "channel": "stable",
+   "date": "2026-10-15",
+   "title": "Publish to GitHub from the app",
+   "notes": [
+    {
+     "t": "new",
+     "x": "Developer tab: Publish to GitHub button uploads the new build and update.json straight to your repository - no manual upload on github.com."
+    },
+    {
+     "t": "imp",
+     "x": "Clear messages when the GitHub token, repository, branch or version number is wrong."
+    }
+   ],
+   "file": "ColumnDetailerPro-1.2.3.html",
+   "size": 301884,
+   "sha256": "7a41148d24e31cb95ffc013238dbf01870722725147787ac9991b492645209f1",
+   "mandatory": true,
+   "minVersion": ""
+  }
+ },
+ "history": [
+  {
+   "version": "1.2.3",
+   "channel": "stable",
+   "date": "2026-10-15",
+   "title": "Publish to GitHub from the app",
+   "notes": [
+    {
+     "t": "new",
+     "x": "Developer tab: Publish to GitHub button uploads the new build and update.json straight to your repository - no manual upload on github.com."
+    },
+    {
+     "t": "imp",
+     "x": "Clear messages when the GitHub token, repository, branch or version number is wrong."
+    }
+   ],
+   "file": "ColumnDetailerPro-1.2.3.html",
+   "size": 301884,
+   "sha256": "7a41148d24e31cb95ffc013238dbf01870722725147787ac9991b492645209f1",
+   "mandatory": true,
+   "minVersion": ""
+  }
+ ],
+ "updated": "2026-10-15T11:19:53.556Z"
+}

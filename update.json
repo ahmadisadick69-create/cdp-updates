@@ -2,24 +2,41 @@
  "app": "ColumnDetailerPro",
  "latest": {
   "stable": {
-   "version": "1.2.7",
+   "version": "1.2.8",
    "channel": "stable",
    "date": "2026-10-16",
    "title": "",
    "notes": [
     {
      "t": "imp",
-     "x": "improved version from text to number read"
+     "x": "Improved "
     }
    ],
-   "file": "ColumnDetailerPro-1.2.7.html",
-   "size": 311360,
-   "sha256": "4d62d7a0f709d0484b7bc13ee71b7ac6c6404af294b01971bc6a76010f7e023d",
+   "file": "ColumnDetailerPro-1.2.8.html",
+   "size": 315487,
+   "sha256": "bc9c46d84f8115dd1c64821768bc44b78d437fcd836641d4562c1b868e89bf5b",
    "mandatory": true,
-   "minVersion": "1.2.7"
+   "minVersion": "1.2.8"
   }
  },
  "history": [
+  {
+   "version": "1.2.8",
+   "channel": "stable",
+   "date": "2026-10-16",
+   "title": "",
+   "notes": [
+    {
+     "t": "imp",
+     "x": "Improved "
+    }
+   ],
+   "file": "ColumnDetailerPro-1.2.8.html",
+   "size": 315487,
+   "sha256": "bc9c46d84f8115dd1c64821768bc44b78d437fcd836641d4562c1b868e89bf5b",
+   "mandatory": true,
+   "minVersion": "1.2.8"
+  },
   {
    "version": "1.2.7",
    "channel": "stable",
@@ -76,5 +93,5 @@
    "minVersion": ""
   }
  ],
- "updated": "2026-10-16T04:07:12.037Z"
+ "updated": "2026-10-16T04:41:39.586Z"
 }

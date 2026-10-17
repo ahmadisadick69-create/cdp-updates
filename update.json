@@ -2,24 +2,57 @@
  "app": "ColumnDetailerPro",
  "latest": {
   "stable": {
-   "version": "1.2.8",
+   "version": "1.3.0",
    "channel": "stable",
-   "date": "2026-10-16",
-   "title": "",
+   "date": "2026-10-17",
+   "title": "Simpler Software Update window",
    "notes": [
     {
      "t": "imp",
-     "x": "Improved "
+     "x": "The Settings and Developer tabs were removed from the program. Publishing new versions is now done only with the separate Release Publisher tool."
+    },
+    {
+     "t": "imp",
+     "x": "The program is smaller and users only see Updates and Release notes."
+    },
+    {
+     "t": "fix",
+     "x": "Desktop and Start-menu shortcuts now carry the same icon as the program window."
     }
    ],
-   "file": "ColumnDetailerPro-1.2.8.html",
-   "size": 315487,
-   "sha256": "bc9c46d84f8115dd1c64821768bc44b78d437fcd836641d4562c1b868e89bf5b",
-   "mandatory": true,
-   "minVersion": "1.2.8"
+   "file": "ColumnDetailerPro-1.3.0.html",
+   "size": 298616,
+   "sha256": "6a804fc98e23acbb5c4a0cca99738a1d868606a383e1ca80338e85f43fc349ff",
+   "mandatory": false,
+   "minVersion": "1.3.0"
   }
  },
  "history": [
+  {
+   "version": "1.3.0",
+   "channel": "stable",
+   "date": "2026-10-17",
+   "title": "Simpler Software Update window",
+   "notes": [
+    {
+     "t": "imp",
+     "x": "The Settings and Developer tabs were removed from the program. Publishing new versions is now done only with the separate Release Publisher tool."
+    },
+    {
+     "t": "imp",
+     "x": "The program is smaller and users only see Updates and Release notes."
+    },
+    {
+     "t": "fix",
+     "x": "Desktop and Start-menu shortcuts now carry the same icon as the program window."
+    }
+   ],
+   "file": "ColumnDetailerPro-1.3.0.html",
+   "size": 298616,
+   "sha256": "6a804fc98e23acbb5c4a0cca99738a1d868606a383e1ca80338e85f43fc349ff",
+   "mandatory": false,
+   "minVersion": "1.3.0"
+  },
   {
    "version": "1.2.8",
    "channel": "stable",
@@ -93,5 +126,5 @@
    "minVersion": ""
   }
  ],
- "updated": "2026-10-16T04:41:39.586Z"
+ "updated": "2026-10-17T08:40:00.958Z"
 }

@@ -2,32 +2,49 @@
  "app": "ColumnDetailerPro",
  "latest": {
   "stable": {
-   "version": "1.3.0",
+   "version": "1.6.2",
    "channel": "stable",
-   "date": "2026-10-17",
-   "title": "Simpler Software Update window",
+   "date": "2026-10-18",
+   "title": "Link hooks drawn, bars through the roof beam",
    "notes": [
     {
      "t": "imp",
-     "x": "The Settings and Developer tabs were removed from the program. Publishing new versions is now done only with the separate Release Publisher tool."
+     "x": "The link hook (135 or 90 degrees, extension from the selected detailing code) is drawn on the link in every section and on the link in every beam/slab zone of the elevation."
     },
     {
      "t": "imp",
-     "x": "The program is smaller and users only see Updates and Release notes."
-    },
-    {
-     "t": "fix",
-     "x": "Desktop and Start-menu shortcuts now carry the same icon as the program window."
+     "x": "The top-level bars are drawn complete through the roof beam up to the top cover (with the top bend where one is required), as they already crossed the intermediate beams."
     }
    ],
-   "file": "ColumnDetailerPro-1.3.0.html",
-   "size": 298616,
-   "sha256": "6a804fc98e23acbb5c4a0cca99738a1d868606a383e1ca80338e85f43fc349ff",
+   "file": "ColumnDetailerPro-1.6.2.html",
+   "size": 377340,
+   "sha256": "fce431d94c90f16ada41dd9a76b0305ccd1801ddbe613fcda442e39af1d4cb5e",
    "mandatory": false,
-   "minVersion": "1.3.0"
+   "minVersion": "1.6.2"
   }
  },
  "history": [
+  {
+   "version": "1.6.2",
+   "channel": "stable",
+   "date": "2026-10-18",
+   "title": "Link hooks drawn, bars through the roof beam",
+   "notes": [
+    {
+     "t": "imp",
+     "x": "The link hook (135 or 90 degrees, extension from the selected detailing code) is drawn on the link in every section and on the link in every beam/slab zone of the elevation."
+    },
+    {
+     "t": "imp",
+     "x": "The top-level bars are drawn complete through the roof beam up to the top cover (with the top bend where one is required), as they already crossed the intermediate beams."
+    }
+   ],
+   "file": "ColumnDetailerPro-1.6.2.html",
+   "size": 377340,
+   "sha256": "fce431d94c90f16ada41dd9a76b0305ccd1801ddbe613fcda442e39af1d4cb5e",
+   "mandatory": false,
+   "minVersion": "1.6.2"
+  },
   {
    "version": "1.3.0",
    "channel": "stable",
@@ -126,5 +143,5 @@
    "minVersion": ""
   }
  ],
- "updated": "2026-10-17T08:40:00.958Z"
+ "updated": "2026-10-18T17:12:14.491Z"
 }

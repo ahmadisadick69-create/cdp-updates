@@ -2,28 +2,49 @@
  "app": "ColumnDetailerPro",
  "latest": {
   "stable": {
-   "version": "1.8.0",
+   "version": "1.10.1",
    "channel": "stable",
    "date": "2026-10-19",
-   "title": "Link hooks drawn, bars through the roof beam",
+   "title": "Footing bar bend radius",
    "notes": [
     {
-     "t": "imp",
-     "x": "The link hook (135 or 90 degrees, extension from the selected detailing code) is drawn on the link in every section and on the link in every beam/slab zone of the elevation."
+     "t": "new",
+     "x": "Foundation > Footing reinforcement: Bend radius dropdown below the bend angle for the bottom bars (and the top bars of a combined pad) - from the selected code per bar size, or a manual inner radius in mm."
     },
     {
      "t": "imp",
-     "x": "The top-level bars are drawn complete through the roof beam up to the top cover (with the top bend where one is required), as they already crossed the intermediate beams."
+     "x": "The bend radius changes the cut length and is drawn as a rounded bend in the elevation and in the 3D view; a warning appears if it is smaller than the code requires."
     }
    ],
-   "file": "ColumnDetailerPro-1.8.0.html",
-   "size": 408910,
-   "sha256": "c62645bb6836926afc6b41496b25b44624a5c2f8e1c81ec342d93c86d89dd24e",
+   "file": "ColumnDetailerPro-1.10.1.html",
+   "size": 466485,
+   "sha256": "1bdc4d7824fb65f215a5df86ffd563a668d0ef76f704d9a579815a55717bf598",
    "mandatory": false,
-   "minVersion": "1.8.0"
+   "minVersion": "1.10.1"
   }
  },
  "history": [
+  {
+   "version": "1.10.1",
+   "channel": "stable",
+   "date": "2026-10-19",
+   "title": "Footing bar bend radius",
+   "notes": [
+    {
+     "t": "new",
+     "x": "Foundation > Footing reinforcement: Bend radius dropdown below the bend angle for the bottom bars (and the top bars of a combined pad) - from the selected code per bar size, or a manual inner radius in mm."
+    },
+    {
+     "t": "imp",
+     "x": "The bend radius changes the cut length and is drawn as a rounded bend in the elevation and in the 3D view; a warning appears if it is smaller than the code requires."
+    }
+   ],
+   "file": "ColumnDetailerPro-1.10.1.html",
+   "size": 466485,
+   "sha256": "1bdc4d7824fb65f215a5df86ffd563a668d0ef76f704d9a579815a55717bf598",
+   "mandatory": false,
+   "minVersion": "1.10.1"
+  },
   {
    "version": "1.8.0",
    "channel": "stable",
@@ -164,5 +185,5 @@
    "minVersion": ""
   }
  ],
- "updated": "2026-10-19T16:26:58.433Z"
+ "updated": "2026-10-19T22:13:55.376Z"
 }

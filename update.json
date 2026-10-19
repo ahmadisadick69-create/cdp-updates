@@ -2,9 +2,9 @@
  "app": "ColumnDetailerPro",
  "latest": {
   "stable": {
-   "version": "1.6.2",
+   "version": "1.8.0",
    "channel": "stable",
-   "date": "2026-10-18",
+   "date": "2026-10-19",
    "title": "Link hooks drawn, bars through the roof beam",
    "notes": [
     {
@@ -16,14 +16,35 @@
      "x": "The top-level bars are drawn complete through the roof beam up to the top cover (with the top bend where one is required), as they already crossed the intermediate beams."
     }
    ],
-   "file": "ColumnDetailerPro-1.6.2.html",
-   "size": 377340,
-   "sha256": "fce431d94c90f16ada41dd9a76b0305ccd1801ddbe613fcda442e39af1d4cb5e",
+   "file": "ColumnDetailerPro-1.8.0.html",
+   "size": 408910,
+   "sha256": "c62645bb6836926afc6b41496b25b44624a5c2f8e1c81ec342d93c86d89dd24e",
    "mandatory": false,
-   "minVersion": "1.6.2"
+   "minVersion": "1.8.0"
   }
  },
  "history": [
+  {
+   "version": "1.8.0",
+   "channel": "stable",
+   "date": "2026-10-19",
+   "title": "Link hooks drawn, bars through the roof beam",
+   "notes": [
+    {
+     "t": "imp",
+     "x": "The link hook (135 or 90 degrees, extension from the selected detailing code) is drawn on the link in every section and on the link in every beam/slab zone of the elevation."
+    },
+    {
+     "t": "imp",
+     "x": "The top-level bars are drawn complete through the roof beam up to the top cover (with the top bend where one is required), as they already crossed the intermediate beams."
+    }
+   ],
+   "file": "ColumnDetailerPro-1.8.0.html",
+   "size": 408910,
+   "sha256": "c62645bb6836926afc6b41496b25b44624a5c2f8e1c81ec342d93c86d89dd24e",
+   "mandatory": false,
+   "minVersion": "1.8.0"
+  },
   {
    "version": "1.6.2",
    "channel": "stable",
@@ -143,5 +164,5 @@
    "minVersion": ""
   }
  ],
- "updated": "2026-10-18T17:12:14.491Z"
+ "updated": "2026-10-19T16:26:58.433Z"
 }
